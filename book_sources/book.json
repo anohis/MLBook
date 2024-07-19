@@ -30,7 +30,7 @@
           }
       },
       "edit-link": {
-        "base": "https://github.com/anohis/MLBook/edit/master/",
+        "base": "https://github.com/anohis/MLBook",
         "label": "Edit This Page"
       },
       "ga": {
