@@ -1,1 +1,1 @@
-[Test02](./Context/Test02.md)
+[Test02](Test02.md)
